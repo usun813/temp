@@ -1,1 +1,1 @@
-# For Data Journalism Final Subject
+# For final task of Data Journalism in the media department
