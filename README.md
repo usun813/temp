@@ -1,1 +1,1 @@
-# For final task of Data Journalism in the media department
+# For final task of Data Journalism
